@@ -4,6 +4,9 @@
 - The purpose of this analysis is to look at the impact of Amazon's Vine program on the efficicacy of helpful reviews.
 
 ## Results
+
+![Reviews Overview](https://user-images.githubusercontent.com/16244455/150657754-fd4c5740-b4a1-460b-8fd6-32ae1863b71c.png)
+
 In total there were:
 - 94 Vine Reviews
 - 40,471 Non-Vine Reviews
